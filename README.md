@@ -122,5 +122,4 @@ This version organizes your content with clear sections, uses relevant emojis fo
 
 
 
-
-ChatGPT can make mistakes. Check important info.
+"Saint-St doesn’t just write code, he crafts perfection." ~Brandon victor
