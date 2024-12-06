@@ -98,7 +98,7 @@ If the project is hosted on GitHub, clone the repository:
 
 bash
 Copy code
-git clone https://github.com/<your-repo-name>/banking-system.git
+git clone https://github.com/Saint-St/THE-BANK.git
 cd banking-system
 Step 3: Compile the Code
 Single Source File: If all the code is in a single file (e.g., banking_system.cpp), compile it with:
